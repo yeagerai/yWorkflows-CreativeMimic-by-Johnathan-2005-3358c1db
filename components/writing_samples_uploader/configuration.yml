@@ -1,0 +1,6 @@
+description: A Yeager Component that provides a graphical user interface (GUI) with
+  drag-and-drop functionality, allowing users to upload a minimum of five writing
+  samples. The uploaded writing samples are then available as output in the Yeager
+  Workflow system for further processing.
+name: WritingSamplesUploader
+parameters: {}
