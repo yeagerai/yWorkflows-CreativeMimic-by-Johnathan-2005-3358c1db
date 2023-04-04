@@ -5,7 +5,9 @@ description: The CreativeMimic component is designed to generate an article on a
   generate a creative and coherent article. This component aims to create an article
   that matches the quality and style of the input writing samples while covering the
   desired topic effectively.
+input-class: CreativeMimicIn
 name: CreativeMimic
+output-class: CreativeMimicOut
 parameters:
   content_generation_algorithm: transformers
   style_features_extraction_method: default
