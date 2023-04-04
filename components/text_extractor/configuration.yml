@@ -2,6 +2,8 @@ description: A Yeager Component that processes the uploaded documents from Writi
   and extracts the text content from them. The TextExtractor is designed to handle
   a variety of document formats, such as PDF, DOCX, and TXT files, and to convert
   the extracted text into a plain text format for further processing in the workflow.
+input-class: TextExtractorInputDict
 name: TextExtractor
+output-class: TextExtractorOutputDict
 parameters:
   max_file_size: 10MB
